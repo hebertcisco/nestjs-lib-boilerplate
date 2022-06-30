@@ -18,9 +18,9 @@ describe('CatService', () => {
     service = module.get<CatService>(CatService);
   });
 
-  it('consoleObservable', async () => {
+  it('processObservable', async () => {
     service.processObservable().subscribe(processTest => {
-      expect(processTest.platform).toBe('win32');
+      expect(processTest.platform).toBe(process.platform);
     });
   });
 });
