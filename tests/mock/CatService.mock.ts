@@ -1,5 +1,5 @@
 import { Subscription, Observable } from 'rxjs';
- import { CatConfig } from '../../lib/types';
+import { CatConfig } from '../../lib/types';
 
 export class CatServiceMock {
   consoleObservable(options: CatConfig): Subscription {
