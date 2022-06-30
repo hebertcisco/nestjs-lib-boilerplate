@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/hebertcisco/nestjs-lib-boilerplate/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/hebertcisco/nestjs-lib-boilerplate/tree/master)
+
 [![Node.js build and publish package](https://github.com/hebertcisco/nestjs-lib-boilerplate/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/hebertcisco/nestjs-lib-boilerplate/actions/workflows/npm-publish.yml)
 
 [![Running Code Coverage](https://github.com/hebertcisco/nestjs-lib-boilerplate/actions/workflows/coverage.yml/badge.svg)](https://github.com/hebertcisco/nestjs-lib-boilerplate/actions/workflows/coverage.yml)
